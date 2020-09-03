@@ -1,7 +1,7 @@
 # Naive_Bayes
 
 
-\textbf{MNIST Dataset}
+# MNIST Dataset
 
 We will use a preprocessed variant of the MNIST digits dataset in this assignment. The task is to classify hand-written digits. There is one class for each digit (i.e., classes 0,1,2,...,9). The features represent a scanned image (28×28 pixels, values in {0,1,...,255}). The dataset contains both training data ($\approx$ 6000 images per class) and test data ($\approx$ 1000 images per class)
 
